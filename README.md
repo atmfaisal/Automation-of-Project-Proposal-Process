@@ -1,26 +1,35 @@
 # Database Project
 
-## Title:
-#### Automation of Project Proposal Process
+## Title
+### Automation of Project Proposal Process
 
 
-
-
-
-## Platform:
+## Platform
 #### Web App
 
 
+## Database Application
+#### MySQL
+
+
+## Front End Languages
+#### HTML, CSS
+
+
+## Back End Language
+#### PHP
   
   
 ## Author
+
 Abu Toha Md Faisal  
 Reg No: 2014331531  
 Session: 2014-2015    
 Sylhet Engineering College.
   
   
-## Supervisor:
+## Supervisor
+
 Enamul Hassan  
 Lecturer,  
 Computer Science & Engineering,  
