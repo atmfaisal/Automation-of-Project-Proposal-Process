@@ -1,13 +1,16 @@
 # Database Project
 
 ## Title:
-### Automation of Project Proposal Process
-  
-  
-  
+#### Automation of Project Proposal Process
+
+
+
+
+
 ## Platform:
 #### Web App
-  
+
+
   
   
 ## Author
