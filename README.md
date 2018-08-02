@@ -24,7 +24,7 @@
 
 Abu Toha Md Faisal  
 Reg No: 2014331531  
-Session: 2014-2015    
+Session: 2014-15    
 Sylhet Engineering College.
   
   
